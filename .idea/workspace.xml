@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="LedControlESP32:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b5a6679-5f38-453c-9f8f-c82b0a2cab8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LedControlESP32.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/fraggel/LedControlESP32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/fraggel/config.properties" afterDir="false" />
+    <list default="true" id="5b5a6679-5f38-453c-9f8f-c82b0a2cab8e" name="Changes" comment="initial release">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/LedControlESP32_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/fraggel/LedControlESP32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/fraggel/LedControlESP32.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/ARCADE/IdeaProjects/LedControlESP32/src/es/fraggel"
+    "last_opened_file_path": "C:/Users/ARCADE/IdeaProjects/LedControlESP32/config.properties",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -49,6 +52,7 @@
       <recent name="C:\Users\ARCADE\IdeaProjects\LedControlESP32\src\es\fraggel" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ARCADE\IdeaProjects\LedControlESP32" />
       <recent name="C:\Users\ARCADE\IdeaProjects\LedControlESP32\src\es\fraggel" />
     </key>
   </component>
@@ -70,6 +74,14 @@
       <option name="presentableId" value="Default" />
       <updated>1659939819660</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial release">
+      <created>1659943779271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659943779271</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,5 +94,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial release" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial release" />
   </component>
 </project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LedControlESP32:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LedControlESP32_jar</output-path>
+    <root id="archive" name="LedControlESP32.jar">
+      <element id="module-output" name="LedControlESP32" />
+    </root>
+  </artifact>
+</component>

@@ -139,6 +139,7 @@ public class LedControlESP32 extends JPanel
             Properties prop = new Properties();
 
             // set the properties value
+            prop.setProperty("ip", ip);
             prop.setProperty("lastColor", lastColor);
 
             // save properties to project root folder
